@@ -3,5 +3,8 @@
 public class Main {
     public static void main(String[] args) {
        System.out.println("UNO");
+       for(int i;i<100;i++) {
+           System.out.println("You're fired");
+       }
     }
 }
