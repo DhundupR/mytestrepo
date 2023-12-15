@@ -8,7 +8,7 @@ public class Main {
            System.out.println("You're fired");
        }
        while(l < 10){ System.out.println("L"); l++;}
-       System.out.println("No Wooo you're fired ");
+       System.out.println("NO U");
     }
 
 
