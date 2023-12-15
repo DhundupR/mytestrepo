@@ -4,4 +4,11 @@ public class Class {
     public Class(int i ){
         this.i = i;
     }
+    public void numberCount(int upToNum){
+        while(i<upToNum){
+            System.out.print(i);
+            i++;
+        }
+
+    }
 }
