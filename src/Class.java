@@ -11,4 +11,8 @@ public class Class {
         }
 
     }
+
+    public void partner1(){
+        System.out.println("yay");
+    }
 }
