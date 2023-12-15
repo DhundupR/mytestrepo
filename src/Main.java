@@ -7,6 +7,10 @@ public class Main {
        for(int i=0;i<100;i++) {
            System.out.println("You're fired");
        }
-       while(l < 1){ System.out.println("L");}
+       while(l < 10){ System.out.println("L"); l++;}
+       System.out.println("WOOOO");
     }
+
+
+
 }
