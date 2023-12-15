@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         int l = 0;
-       System.out.println("UNO");
+       System.out.println("PARTENER ! DID STUFF");
        for(int i=0;i<100;i++) {
            System.out.println("You're fired");
        }
