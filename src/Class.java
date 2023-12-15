@@ -10,5 +10,9 @@ public class Class {
             i++;
         }
 
+        public void Parnter2(){
+            System.out.print("Yay");
+        }
+
     }
 }
